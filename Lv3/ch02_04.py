@@ -84,6 +84,6 @@ t = TimestampLogger()
 d = DateLogger()
 
 # 메소드 재정의 실습
-print('Ex3 > ', l.log('Called logger.'))
-print('Ex3 > ', t.log('Called timestamp logger.'))
-print('Ex3 > ', d.log('Called date logger.'))
+l.log('Called logger.')
+t.log('Called timestamp logger.')
+d.log('Called date logger.')
