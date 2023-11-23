@@ -4,3 +4,6 @@ setuptools
 pandas
 xlwt
 request
+django-debug-toolbar
+django-extensions
+django-bootstrap4
